@@ -1,4 +1,5 @@
 # APLIKACJE-_INTERNETOWE-LARAVEL
 
 PROJEK NA TEMAT ZARZĄDZANIA KLUBEM WĘDKARSKIM 
-WYkonał : Adrian Kowalczuk 
+
+Wykonał : Adrian Kowalczuk 
