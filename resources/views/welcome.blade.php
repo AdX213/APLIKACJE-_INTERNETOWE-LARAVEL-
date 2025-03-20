@@ -13,7 +13,7 @@
                 <a class="btn btn-primary btn-lg" href="{{ route('login') }}" role="button">Zaloguj sie</a>
                 <a class="btn btn-success btn-lg" href="{{ route('register') }}" role="button">Rejestracja</a>
             @else
-                <a class="btn btn-primary btn-lg" href="{{ route('dashboard') }}" role="button">Go to Dashboard</a>
+                <a class="btn btn-primary btn-lg" href="{{ route('dashboard') }}" role="button">Powrót do panelu powitania</a>
             @endguest
         </div>
     </div>
